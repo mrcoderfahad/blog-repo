@@ -1,0 +1,41 @@
+body{
+    background-color: aliceblue;
+    font-family: 'Bona Nova', serif;
+    text-shadow: 10px 10px 10px coral;
+}
+.first-id{
+    font-style: italic;
+    font-size: 300%;
+    font-weight: lighter;
+    color: tomato;
+    padding-left: 14%;
+    
+}
+section{
+    display: flex;
+    padding-left: 5%;
+    text-shadow: 20px 10px 10px rgb(225, 76, 65);
+}
+.section1 img{
+    width: 80%;
+    padding-left: 10%;
+}
+hr{
+    width: 500%;
+}
+.section2{
+    display: flex;
+}
+.section2 img{
+    padding-right: 5%;
+}
+.writing-1{
+    text-align: center;
+}
+
+
+
+
+
+
+
